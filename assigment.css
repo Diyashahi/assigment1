@@ -1,0 +1,46 @@
+
+.container {
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+    
+  }
+  .home {
+    display: flex;
+    font-size: 24px;
+    gap: 35x;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+    padding-bottom: 300px;
+  }
+  a {
+  
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+  }
+  section {
+      background-color: powderblue;
+      justify-content: center;
+  padding:30px;
+  margin-top: 60px;
+  color:black;
+ 
+
+}
+.image{
+  display: flex;
+    font-size: 24px;
+    gap: 30px;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+   
+
+}
